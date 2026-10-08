@@ -24,16 +24,15 @@
 
 </div>
 
----
 
-### 🔮 Player Stats (Atributos do Personagem)
 
-```text
+
+
+``
     [HP]  ████████████████████████ 100%
-    [MP]  ████████████████████████ 100%
+    [MP]  ███████████████████████ 100%
     [EXP] █████████████████░░░░░░░ 75% (LVL 24)
 
-    > ALIAS: Brenim
-    > CLASSE: Full-Stack Developer / Cyber Ninja
-    > QUEST ATUAL: Desenvolver sistemas épicos e dominar o backend
-    > INVENTÁRIO: Café Expresso ☕, Tema Dracula 🧛‍♂️ e Fones com Cancelamento de Ruído 🎧
+    > Meu nome/apelido é: Brenim
+    > CLASSE: Full-Stack Developer / Game developer
+    > QUEST ATUAL: Desenvolver um jogo pro meu TCC
