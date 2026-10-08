@@ -26,6 +26,13 @@
 
 
 
+<div align="center">
+  <a href="https://github.com/Brenim/Brenim/issues/new?title=tic-tac-toe+move%3D1">
+    <img src="https://raw.githubusercontent.com/Brenim/Brenim/main/board.svg" alt="Tic Tac Toe Board" />
+  </a>
+</div>
+
+<p align="center">Clica numa das casas acima abrindo a issue de jogada para fazer a tua jogada!</p>
 
 
 
