@@ -13,7 +13,7 @@ text{font-family:'Fira Code',Consolas,monospace}
 <rect x="2" y="2" width="416" height="136" rx="12" fill="url(#f)" stroke="#5a189a" stroke-width="2"/>
 <rect class="b" x="2" y="2" width="416" height="136" rx="12" fill="none" stroke="#c77dff" stroke-width="2.5"/>
 <text x="22" y="38" class="t">▶ Bloody-Mary</text>
-<text x="22" y="72" class="d">Projeto sem descrição... ainda 👀</text>
+<text x="22" y="72" class="d">Projeto sem descrição... ainda</text>
 <circle cx="27" cy="115" r="5" fill="#478cbf"/>
 <text x="39" y="119" class="r">GDScript</text>
 <text x="190" y="119" class="r">★ 0</text>
