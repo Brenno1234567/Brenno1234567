@@ -31,7 +31,7 @@ def cortar(texto, n):
 
 
 def card(repo, i):
-    linhas = textwrap.wrap(repo.get("description") or "Projeto sem descrição... ainda 👀", 48)
+    linhas = textwrap.wrap(repo.get("description") or "Projeto sem descrição... ainda", 48)
     if len(linhas) > 2:
         linhas = [linhas[0], cortar(linhas[1] + "…", 48)]
     desc = "".join(f'<text x="22" y="{72 + n * 19}" class="d">{escape(l)}</text>'
@@ -86,3 +86,4 @@ def main(repos):
 
 if __name__ == "__main__":
     main(buscar())
+         
