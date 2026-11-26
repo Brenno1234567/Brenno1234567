@@ -42,8 +42,8 @@ Buff   : Cafeína + Dark Mode
 
 ## Multiplayer
 
-<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-<a href="https://steamcommunity.com"><img src="https://img.shields.io/badge/Steam-1A1A1A?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
-<a href="https://twitch.tv"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
+<a href="https://discord.gg/xfyYgfBb"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="https://s.team/p/jjfb-tjvq/CGKCDPVK"><img src="https://img.shields.io/badge/Steam-1A1A1A?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
+<a href="https://www.instagram.com/brenno_firmino08"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </div>
