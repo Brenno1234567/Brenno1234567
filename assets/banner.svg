@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
+<style>
+text{font-family:'Segoe UI',Roboto,Arial,sans-serif;text-anchor:middle}
+.a{animation:m 8s ease-in-out infinite alternate}
+.b{animation:m 11s ease-in-out infinite alternate-reverse}
+@keyframes m{from{transform:translateX(0)}to{transform:translateX(-300px)}}
+@media (prefers-reduced-motion:reduce){.a,.b{animation:none}}
+</style>
+<defs>
+<linearGradient id="f" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10002b"/><stop offset=".55" stop-color="#3c096c"/><stop offset="1" stop-color="#7b2cbf"/></linearGradient>
+<clipPath id="c"><rect width="900" height="250" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="900" height="250" fill="url(#f)"/>
+<path class="a" d="M0 200Q150 160 300 200T600 200T900 200T1200 200V250H0Z" fill="#9d4edd" opacity=".35"/>
+<path class="b" d="M0 215Q150 250 300 215T600 215T900 215T1200 215V250H0Z" fill="#c77dff" opacity=".25"/>
+<text x="450" y="125" font-size="80" font-weight="700" fill="#e0aaff">Brenim</text>
+<text x="450" y="165" font-size="22" fill="#e0aaff">Full-Stack &amp; Game Developer</text>
+</g>
+</svg>
