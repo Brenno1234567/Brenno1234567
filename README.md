@@ -26,7 +26,14 @@ Buff   : Cafeína + Dark Mode
 <div align="center">
 
 <!-- REPOS:INICIO -->
-<i>Carregando quests... (rode a Action para os cards aparecerem)</i>
+<a href="https://github.com/Brenno1234567/Card-pio-erva-doce"><img src="./assets/repos/Card-pio-erva-doce.svg" width="49%" alt="Card-pio-erva-doce"/></a>
+<a href="https://github.com/Brenno1234567/meu-site"><img src="./assets/repos/meu-site.svg" width="49%" alt="meu-site"/></a>
+<a href="https://github.com/Brenno1234567/Rei-dos-combos"><img src="./assets/repos/Rei-dos-combos.svg" width="49%" alt="Rei-dos-combos"/></a>
+<a href="https://github.com/Brenno1234567/patas-na-rua"><img src="./assets/repos/patas-na-rua.svg" width="49%" alt="patas-na-rua"/></a>
+<a href="https://github.com/Brenno1234567/Escola"><img src="./assets/repos/Escola.svg" width="49%" alt="Escola"/></a>
+<a href="https://github.com/Brenno1234567/Bloody-Mary"><img src="./assets/repos/Bloody-Mary.svg" width="49%" alt="Bloody-Mary"/></a>
+<a href="https://github.com/Brenno1234567/ACV"><img src="./assets/repos/ACV.svg" width="49%" alt="ACV"/></a>
+<a href="https://github.com/Brenno1234567/Site-arquitetura-moderna"><img src="./assets/repos/Site-arquitetura-moderna.svg" width="49%" alt="Site-arquitetura-moderna"/></a>
 <!-- REPOS:FIM -->
 
 <br/><br/>
